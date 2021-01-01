@@ -1,4 +1,6 @@
-## Hello, I am Sreeram! ![sreeram padmanabhan][https://github.githubassets.com/images/mona-whisper.gif]
+![Sreeram Padmanabhan](https://github.githubassets.com/images/mona-whisper.gif 'Sreeram Padmanabhan')
+
+## Hello, I am Sreeram!👋 
 
 #### *07 August, 2020, Berlin, Germany* 🇩🇪
 
