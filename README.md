@@ -23,14 +23,14 @@ You can see my work at:
 - https://raics.org
 
 
-<p style="display: grid;">
+<p>
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/1.png?raw=false'/>
-  <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/2.png?raw=false'/>
+  <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/2.png?raw=false'/> <br />
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/4.jpg?raw=false'/>
+  <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/6.jpg?raw=false'/>
+  <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/7.png?raw=false'/> <br />
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/9.png?raw=false'/>
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/5.png?raw=false'/>
-  <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/6.jpg?raw=false'/>
-  <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/7.png?raw=false'/>
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/4.png?raw=false'/>
 </p>
 
