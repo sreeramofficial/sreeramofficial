@@ -23,7 +23,7 @@ You can see my work at:
 - https://raics.org
 
 
-<p style="display: grid; grid-gap: 20px; grid-template-colums: auto auto auto auto; grid-template-rows: auto auto auto auto">
+<p style="display: grid;">
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/1.png?raw=false'/>
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/4.jpg?raw=false'/>
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/9.png?raw=false'/>
