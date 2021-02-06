@@ -1,4 +1,4 @@
-![Sreeram Padmanabhan](https://github.githubassets.com/images/mona-whisper.gif 'Sreeram Padmanabhan')
+<p align='center'>![Sreeram Padmanabhan](https://github.githubassets.com/images/mona-whisper.gif 'Sreeram Padmanabhan')</p>
 
 ## Hello, I am Sreeram!👋 
 
