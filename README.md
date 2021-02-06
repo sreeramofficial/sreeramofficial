@@ -1,10 +1,12 @@
-<p align='center'>![Sreeram Padmanabhan](https://github.githubassets.com/images/mona-whisper.gif 'Sreeram Padmanabhan')</p>
+<p align='center'>
+  <a href="https://sreer.am/" target="blank"><img src="https://sreer.am/sections/dev.svg" width="120" alt="Sreeram Padmanabhan" /></a>
+</p>
 
 ## Hello, I am Sreeram!👋 
 
 #### *07 August, 2020, Berlin, Germany* 🇩🇪
-
-Hi there reader! I am [**Sreeram**](https://sreer.am). Friends call me Siri or Sree. I am a **Frontend Tech Lead** at **Delivery Hero** in Berlin, Germany. I am also the founder of **jsDrome**. I am also a trainer and a photographer. I travel regularly and have so far covered 13 countries and several cities. I will be covering a lot more over the next years.
+  
+Hi there reader! I am [**Sreeram**](https://sreer.am). Friends call me Siri or Sree. I am a **Lead Fullstack Javascript Engineer** at **Delivery Hero** in Berlin, Germany. I am also the founder of **jsDrome**. I am also a trainer and a photographer. I travel regularly and have so far covered 13 countries and several cities. I will be covering a lot more over the next years.
 
 I consider myself an artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency.
 
