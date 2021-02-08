@@ -24,7 +24,7 @@ You can see my work at:
 - https://raics.org
 -->
 
-Here are some of my work:
+<p align='center'>My work is mostly inside authenticated parts of a website. But here are some publicly available ones.</p>
 
 <p align='center'>
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/1.png?raw=false'/>
