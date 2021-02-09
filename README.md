@@ -10,7 +10,7 @@ Hi there reader! I am [**Sreeram**](https://sreer.am). Friends call me Siri or S
 
 I consider myself an artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency.
 
-<!--
+
 You can see my work at:
 
 - https://sreer.am
@@ -22,8 +22,8 @@ You can see my work at:
 - https://mjam.at
 - https://mjam.at/market
 - https://raics.org
--->
 
+<!--
 <p align='center'>My work is mostly inside authenticated parts of a website. But here are some publicly available ones.</p>
 
 <p align='center'>
@@ -35,7 +35,7 @@ You can see my work at:
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/5.png?raw=false'/>
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/4.png?raw=false'/>
 </p>
-
+-->
 <p align='center'>
   <a href="https://www.linkedin.com/in/sreeramofficial/">
     <img alt="Sreeram Padmanabhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
