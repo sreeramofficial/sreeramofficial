@@ -41,8 +41,16 @@ You can see my work at:
     <img alt="Sreeram Padmanabhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 
-  <a href="https://instagram.com/sreeramofficial">
-    <img alt="Sreeram Instageam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href="https://instagram.com/sreeram.io">
+    <img alt="Sreeram Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+
+  <a href="https://leetcode.com/sreeramofficial">
+    <img alt="Sreeram Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/5228328/sreeram-padmanabhan">
+    <img alt="Sreeram Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
 
   <a href="https://github.com/sreeramofficial">
@@ -50,6 +58,10 @@ You can see my work at:
   </a>
 
   <a href="https://twitter.com/sreeramofficial">
-    <img alt="Sreeram Instageam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img alt="Sreeram Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+
+  <a href="https://www.quora.com/profile/Sreeram-Padmanabhan-1">
+    <img alt="Sreeram Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
   </a>
 </p>
