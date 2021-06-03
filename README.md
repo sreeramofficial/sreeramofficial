@@ -12,7 +12,7 @@ Outside of work, I am generally a friendly, laid back, down-to-earth and easily 
 
 My work has mostly been inside authenticated parts of websites. But here are some screeshots of them.
 
-<p align='center'>
+<p align='left'>
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/9.png?raw=false'/>
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/5.png?raw=false'/>
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/4.png?raw=false'/>
