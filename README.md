@@ -1,7 +1,3 @@
-<p align='center'>
-  <a href="https://sreer.am/" target="blank"><img src="https://sreer.am/sections/dev.svg" width="300" alt="Sreeram Padmanabhan" /></a>
-</p>
-
 ## Hello, I am Sreeram!👋 
 
 #### *07 August, 2020, Berlin, Germany* 🇩🇪
