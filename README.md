@@ -19,19 +19,7 @@ If you'd like to chat with me/attend my trainings/seek career advice/have a coff
 
 Thank you | நன்றி | നന്ദി | धन्यवाद | Dankeschön 🙏
 
-You can see my work at:
-
-- https://sreeram.io
-- https://zaxis.jsdrome.com
-- https://jsdrome.com
-- https://lloydsbank.com
-- https://bankofscotland.co.uk
-- https://halifax.co.uk
-- https://mjam.net
-- https://raics.org
-
-
-<p align='center'>My work is mostly inside authenticated parts of a website. But here are some publicly available ones.</p>
+<p align='center'>My work has mostly been inside authenticated parts of websites. But here are some screeshots of them.</p>
 
 <p align='center'>
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/1.png?raw=false'/>
