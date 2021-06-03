@@ -12,12 +12,9 @@ I am due to join Bumble in London in a few days. Previously, I worked for Delive
 
 Outside of work, I am generally a friendly, laid back, down-to-earth and easily approachable person. I am also a part-time teacher teaching people programming online and as well as an amateur photographer. I travel regularly and have so far covered about 15 countries. I am learning to cook. Mostly Indian, but expanding my repertoire to other cuisines. I speak about 4-6 languages - Tamil, Malayalam, Hindi, and English. I have learnt a bit of Sanskrit and Deutsch too.
 
-This is my personal website/blog. I write about things I find interesting - the places I visit, the things I learn, the people I meet etc. There is also a premium section where I share technical stuff I learnt over the years, interview tips and tricks etc.
+## My work
 
-Get in touch
-If you'd like to chat with me/attend my trainings/seek career advice/have a coffee, just send me a message on LinkedIn or Instagram.
-
-<p align='left'>My work has mostly been inside authenticated parts of websites. But here are some screeshots of them.</p>
+My work has mostly been inside authenticated parts of websites. But here are some screeshots of them.
 
 <p align='center'>
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/9.png?raw=false'/>
@@ -31,6 +28,9 @@ If you'd like to chat with me/attend my trainings/seek career advice/have a coff
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/10.png?raw=false'/>
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/2.png?raw=false'/>
 </p>
+
+## Get in touch
+If you'd like to chat with me/attend my trainings/seek career advice/have a coffee, just send me a message on LinkedIn or Instagram.
 
 <p align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | Dankeschön 🙏</p>
 
