@@ -19,10 +19,10 @@ My work has mostly been inside authenticated parts of websites. But here are som
   <br />
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/4.jpg?raw=false'/>
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/6.jpg?raw=false'/>
+  <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/2.png?raw=false'/>
   <br />
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/1.png?raw=false'/>
   <img height=300 width=300 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/10.png?raw=false'/>
-  <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/2.png?raw=false'/>
 </p>
 
 ## Get in touch
