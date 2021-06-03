@@ -23,7 +23,7 @@ You can see my work at:
 - https://mjam.at/market
 - https://raics.org
 
-<!--
+
 <p align='center'>My work is mostly inside authenticated parts of a website. But here are some publicly available ones.</p>
 
 <p align='center'>
@@ -35,7 +35,7 @@ You can see my work at:
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/5.png?raw=false'/>
   <img height=300 width=170 src='https://github.com/sreeramofficial/sreeramofficial/blob/main/4.png?raw=false'/>
 </p>
--->
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/sreeramofficial/">
     <img alt="Sreeram Padmanabhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -49,12 +49,8 @@ You can see my work at:
     <img alt="Sreeram Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
 
-  <a href="https://stackoverflow.com/users/5228328/sreeram-padmanabhan">
+  <a href="https://stackoverflow.com/users/5228328">
     <img alt="Sreeram Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-  </a>
-
-  <a href="https://github.com/sreeramofficial">
-    <img alt="Sreeram Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
   <a href="https://twitter.com/sreeramofficial">
