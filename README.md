@@ -11,7 +11,7 @@ Hi there! I am Sreeram. Friends call me Sree or Siri. I am a Web Developer. The 
 &nbsp;&nbsp;&nbsp;&nbsp;<img height=16 width=16 src='https://www.lloydsbank.com/etc/designs/lloyds/favicon.ico' /> **Lloyds Bank**, *London, UK*<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<img height=16 width=16 src='https://deliveryhero.com/favicon.ico' /> **Delivery Hero**, *Berlin, DE*<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<img height=16 width=16 src='https://assets.foodora.com/3816320/img/favicon/mjam/favicon-32x32.png?3816320' /> **Mjam**, *Berlin, DE* <br />
-&nbsp;&nbsp;&nbsp;&nbsp;<img height=16 width=16 src='https://www.wipro.com/content/dam/nexus/images/header/wipro-logo.png' /> **Wipro Technologies**, *Bangalore, IN* <br />
+&nbsp;&nbsp;&nbsp;&nbsp;<img height=16 width=16 src='https://www.wipro.com/content/dam/nexus/images/header/wipro-logo.png' /> **Wipro Ltd**, *Bangalore, IN* <br />
 &nbsp;&nbsp;&nbsp;&nbsp;<img height=16 width=16 src='https://apple.com/favicon.ico' /> **Apple**, *Chennai, iN*<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<img height=16 width=16 src='https://nokia.com/favicon.ico' /> **Nokia**, *Kochi, IN*<br />
 &nbsp;&nbsp;&nbsp;&nbsp; <img height=16 width=16 src='https://scontent.ftxl2-1.fna.fbcdn.net/v/t1.18169-9/403628_498585193493707_463819903_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=5FUp0iVBKUIAX9qU7X6&_nc_ht=scontent.ftxl2-1.fna&oh=dcde37e3746ee7e5286134dd1551cce3&oe=60E35193' /> **Mistallianz**, *Trivandrum, IN*<br />
